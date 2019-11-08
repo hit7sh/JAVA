@@ -4,7 +4,7 @@ class alpodr
     static void main()
     {
         Scanner in=new Scanner(System.in);
-        S.OP("ENTER A SENTENCE");
+        System.out.println("ENTER A SENTENCE");
         String st=in.nextLine()+" ",wd="",x="";
         int i,j,l=st.length();
         char ch;
@@ -23,7 +23,7 @@ class alpodr
             }
         }
     }
-        S.OP(x);
+        System.out.println(x+"");
     }
 }
                
