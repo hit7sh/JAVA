@@ -9,7 +9,7 @@
 import java.util.Scanner;
 class arrange_words
 {
-    static void main()
+    public static void main(String args[])
     {
         Scanner in=new Scanner(System.in);
         System.out.println("ENTER A SENTENCE");
