@@ -1,3 +1,8 @@
+/*
+    INPUT: coding is fun.
+    OUTPUT: fun coding is
+*/
+
 import java.util.Scanner;
 class alpodr
 {
