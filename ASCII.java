@@ -1,3 +1,6 @@
+/*
+  Program to print ASCII values till 'n'
+*/
 import java.util.Scanner;
 public class ASCII
 {
