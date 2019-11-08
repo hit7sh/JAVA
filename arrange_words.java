@@ -1,6 +1,9 @@
 /*
     INPUT: coding is fun.
     OUTPUT: fun coding is
+    
+    INPUT: Existence of ghosts is a myth
+    OUTPUT: a Existence ghosts is myth of
 */
 
 import java.util.Scanner;
