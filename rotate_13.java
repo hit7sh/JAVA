@@ -2,11 +2,11 @@
 /* 
     Rotate 13 is an encryption technique
     in this, 'a' will become 'a'+13 i.e 'n' and 'z' will become z+13 i.e 'm' and so on.
-    */
+*/
 
 
 import java.util.Scanner;
-class rot13
+class rotate_13
 {
     public static void main(String args[])
     {
