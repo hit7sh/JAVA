@@ -7,7 +7,7 @@
 */
 
 import java.util.Scanner;
-class alpodr
+class arrange_words
 {
     static void main()
     {
