@@ -1,6 +1,6 @@
 class HINDI
 {
-    static void jaihind()
+    public static void main(String args[])
     {
         int i,k=0;
         for(i=2309;i<=2361;i++)
