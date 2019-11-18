@@ -1,3 +1,6 @@
+/*
+Code to print all hindi characters. :D
+*/
 class HINDI
 {
     public static void main(String args[])
